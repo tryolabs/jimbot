@@ -1,0 +1,8 @@
+quote one
+still quote one, second line
+
+quote two
+
+a third quote
+that's
+three lines long

@@ -11,5 +11,6 @@
   "hubot-shipit",
   "hubot-youtube",
   "hubot-google-images",
-  "hubot-karma"
+  "hubot-karma",
+  "hubot-quotefile"
 ]
