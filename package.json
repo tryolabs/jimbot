@@ -13,7 +13,6 @@
     "hubot-heroku-keepalive": "0.0.4",
     "hubot-karma": "^0.2.2",
     "hubot-maps": "0.0.0",
-    "hubot-pugme": "^0.1.0",
     "hubot-quote-grab": "^1.0.0",
     "hubot-redis-brain": "0.0.2",
     "hubot-rules": "^0.1.0",
